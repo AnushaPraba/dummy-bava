@@ -1,0 +1,1 @@
+print("Varata mame durr")
